@@ -22,7 +22,7 @@ title: "modular nodes"
 email: "wjanklow@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
   active and competatively managed eigenlayer operator
-baseurl: ""
+baseurl: "/modular-nodes"
 url: "https://wjanklow.github.io/modular-nodes/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: "x@wjmod26"
 github_username: "wjanklow"
